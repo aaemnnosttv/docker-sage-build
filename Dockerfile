@@ -1,4 +1,4 @@
-FROM node:0.12
+FROM node:6.4
 
 MAINTAINER Evan Mattson
 
